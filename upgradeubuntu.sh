@@ -12,6 +12,7 @@ ubuntu_versions=(
 	"16.10"
 	"17.04"
 	#"17.10"
+	#"18.04"
 )
 ubuntu_code_names=(
 	"Trusty Tahr"
@@ -22,9 +23,10 @@ ubuntu_code_names=(
 	"Yakkety Yak"
 	"Zesty Zapus"
 	#"Artful Aardvark"
+	#"..."
 )
 ubuntu_release_dates=(
-	"2014-07-24" # Trusty
+	"2014-04-17" # Trusty
 	"2015-08-23" # Utopic
 	"2015-04-23" # Vivid
 	"2015-08-22" # Wily
@@ -32,6 +34,7 @@ ubuntu_release_dates=(
 	"2016-08-13" # Yakkety
 	"2017-04-13" # Zesty
 	#"2017-08-XX" # Artful
+	#"2018-04-XX" # ...
 )
 ubuntu_end_of_life=(
 	"2019-04-XX" # Trusty
@@ -41,7 +44,8 @@ ubuntu_end_of_life=(
 	"2021-04-XX" # Xenial
 	"2017-07-20" # Yakkety
 	"2018-01-XX" # Zesty
-	#"20XX-XX-XX" # Artful
+	#"2018-XX-XX" # Artful
+	#"2023-XX-XX" # ...
 )
 
 
