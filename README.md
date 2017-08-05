@@ -12,7 +12,7 @@ $ chmod +x upgradeubuntu.sh
 
 ## Usage
 
-Once having exhausted all regular upgrade options, one may try using this alternative upgrade tool. The system must restart for every upgrade.
+Once having exhausted all regular upgrade options, one may try using this alternative upgrade tool. The system must restart after each upgrade and all updates should be installed for each new version before proceeding to a next upgrade.
 
 As an example, to upgrade from Vivid (15.04) to Xenial (16.04), one must first upgrade from Vivid (15.04) to Wily (15.10), then from Wily to Xenial.
 
