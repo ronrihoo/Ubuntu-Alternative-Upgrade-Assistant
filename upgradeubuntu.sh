@@ -1,7 +1,7 @@
 #! /bin/bash
 
 version="0.1.0"
-splash="Ubuntu Alternative Upgrade Assistant v.$version "
+splash="Ubuntu Alternative Upgrade Assistant v$version "
 prompt="Upgrade to next version? (Y/n): "
 ubuntu_versions=(
 	"14.04"

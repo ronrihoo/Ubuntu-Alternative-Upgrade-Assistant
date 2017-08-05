@@ -2,6 +2,8 @@
 
 A last resort for upgrading Ubuntu in cases where normal procedures fail. As an example, attempting to upgrade from Vivid (15.04) to Wily (15.10) fails with regular procedures; however, this alternative Ubuntu upgrade tool carries out the upgrade successfully.
 
+![Screenshot of the Ubuntu Alternative Upgrade Assistant menu in Terminal](https://github.com/ronrihoo/ubuntu-alternative-upgrade-assistant/raw/master/img/Ubuntu_alternative_upgrade_assistant.png "Ubuntu Alternative Upgrade Assistant")
+
 ## Setup
 
 ```bash
