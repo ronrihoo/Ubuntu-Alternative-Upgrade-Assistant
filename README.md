@@ -20,9 +20,9 @@ As an example, to upgrade from Vivid (15.04) to Xenial (16.04), one must first u
 $ sudo ./upgradeubuntu.sh
 ```
 
-## Qualification Check-List for Using This Alternative Tool
+## Qualifications for Using This Alternative Tool
 
-If all three of the following are true, then the system is qualified for upgrade with this alternative upgrade tool.
+If all three of the following are true, then the system is qualified for an upgrade with this alternative upgrade tool.
 
 1. Late on upgrade.
 
